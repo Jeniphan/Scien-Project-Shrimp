@@ -10,8 +10,7 @@ Which can only solve the problem of turbid water
 The authors therefore have a research idea on fixing water systems for shrimp farming.
 Which is a temperature controller and water change when the water is cloudy Suitable for raising shrimp, Crayfish
 And can reduce the difficulty in changing shrimp feed water
-# Objective
-1. 
+
 # Processing
 In this research project Therefore designed and built a water control system for raising Crayfish shrimp
 Using an Arduino microcontroller as a processor when Sensor Temperature
@@ -24,4 +23,3 @@ The turbidity of the shrimp feed by detecting the light intensity below 97%, the
 To create a water system regulator in the shrimp Crayfish.
 It can be applied in the shrimp farming industry.
 
-# Circuit
